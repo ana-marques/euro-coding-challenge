@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
 body {
   font-family: 'Open Sans', sans-serif;
   font-weight: lighter;
@@ -14,7 +16,7 @@ h3 {
   font-size: 30px;
 }
 
-div .big_container {
+div .picture_section {
 padding: 0;
 }
 
